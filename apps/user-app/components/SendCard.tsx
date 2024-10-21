@@ -11,9 +11,9 @@ export default function Example() {
   const [number, setNumber] = useState("");
   const [amount, setAmount] = useState("");
   return (
-    <Center>
+ 
       <Card title="Pay a Person">
-        <div className="min-w-72 py-2 space-y-4 mt-2">
+        <div className="py-2 space-y-4 mt-2">
           <TextInput
             placeholder={"Enter the Number"}
             label="Number"
@@ -55,6 +55,6 @@ export default function Example() {
           </Button>
         </div>
       </Card>
-    </Center>
+   
   );
 }
