@@ -1,4 +1,3 @@
-Here’s a draft for the `README.md` file for **Crispcash**:
 
 ---
 
